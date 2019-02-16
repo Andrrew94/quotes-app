@@ -5,4 +5,4 @@ In order for you to use this app, you need to clone/download this repository, op
 
 Here is a preview of the app.
 
-![Quotes app preview](https://github.com/Andrrew94/quotes-app/preview/preview1.png)
+![Quotes app preview](https://github.com/Andrrew94/quotes-app/blob/master/preview/preview1.png)
